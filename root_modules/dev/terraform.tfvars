@@ -7,7 +7,7 @@ rgs = {
   rg2 = {
     name     = "rg-shubham"
     location = "East US"
-  
+  }
 }
 
 vnets = {
