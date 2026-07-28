@@ -3,8 +3,8 @@ rgs = {
     name     = "rg-pearce"
     location = "East US"
   }
-  rg3 = {
-    name     = "rg-annu"
+  rg2 = {
+    name     = "rg-shubham"
     location = "East US"
   }
 }
